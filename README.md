@@ -83,6 +83,5 @@ Tek bir teknolojiye bağlı kalmak yerine farklı alanlarda tecrübe edinmeyi se
 
 <br/>
 
-⭐️ *"Edindiğim teorik bilgileri pratiğe dökerek her gün biraz daha gelişiyorum."* ⭐️
 
 </div>
