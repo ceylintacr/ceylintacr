@@ -2,16 +2,14 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk5aWowdHZsc2U0Zjcwc3dmN2Zybzc0ZnRoYmduZ3A4dTc1eHN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="320" alt="banner gif"/>
 
-# 🌙 Merhaba, ben Ceylin ✨
-
 **Bilgisayar Mühendisliği Öğrencisi** · Kocaeli Üniversitesi  
-☕ Yazılım geliştirici · 🛡️ Siber güvenlik & Yapay zeka 
+ Yazılım geliştirici · Siber güvenlik & Yapay zeka 
 
 </div>
 
 ---
 
-## 🪐 Hakkımda
+## Hakkımda
 
 İzmir Bornova Anadolu Lisesi'nden mezun olduktan sonra **Kocaeli Üniversitesi Bilgisayar Mühendisliği** bölümünde eğitimime devam ediyorum ve ikinci sınıfı tamamladım.
 
@@ -19,7 +17,7 @@ Tek bir teknolojiye bağlı kalmak yerine farklı alanlarda tecrübe edinmeyi se
 
 ---
 
-## 🛠️ Beceriler & Teknolojiler
+## Beceriler & Teknolojiler
 
 <div align="center">
 
@@ -35,27 +33,27 @@ Tek bir teknolojiye bağlı kalmak yerine farklı alanlarda tecrübe edinmeyi se
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🛡️ Web Security & XSS · 🔐 Penetration Testing
+ Web Security & XSS ·  Penetration Testing
 
 </div>
 
 ---
 
-## 🌿 Projelerim
+## Projelerim
 
 | Proje | Teknoloji | Açıklama |
 |-------|-----------|----------|
-| 🏰 **Tower Defense 2D Oyunu** | C# / Unity 2D | Baştan sona tasarlanmış mobil tower defense oyunu |
-| 📊 **Akademik Graf Analiz Uygulaması** | C# | Akademik atıf grafikleri üzerine analiz aracı |
-| 📡 **Lidar RANSAC Geometrik Analiz** | C | 2D LIDAR verisi üzerinde geometrik analiz |
-| 📝 **Terminal NotePad++ Uygulaması** | C | Terminal tabanlı metin düzenleyici |
-| 🛒 **Müşteri Ürün Kategorisi Tahmin** | Java | Pazar tahmin & sınıflandırma aracı |
-| 🔄 **NoSQL → SQL Dönüştürme** | Python | NoSQL–SQL veri aktarım mimarisi |
-| 🫧 **Sudoku Oyunu** | C# | Sevimli tasarımıyla dallanma algoritmalı mobil sudoku oyunu |
+|  **Tower Defense 2D Oyunu** | C# / Unity 2D | Baştan sona tasarlanmış mobil tower defense oyunu |
+|  **Akademik Graf Analiz Uygulaması** | C# | Akademik atıf grafikleri üzerine analiz aracı |
+|  **Lidar RANSAC Geometrik Analiz** | C | 2D LIDAR verisi üzerinde geometrik analiz |
+|  **Terminal NotePad++ Uygulaması** | C | Terminal tabanlı metin düzenleyici |
+|  **Müşteri Ürün Kategorisi Tahmin** | Java | Pazar tahmin & sınıflandırma aracı |
+|  **NoSQL → SQL Dönüştürme** | Python | NoSQL–SQL veri aktarım mimarisi |
+|  **Sudoku Oyunu** | C# | Sevimli tasarımıyla dallanma algoritmalı mobil sudoku oyunu |
 
 ---
 
-## 📊 GitHub İstatistiklerim
+##  GitHub İstatistiklerim
 
 <div align="center">
 
@@ -67,13 +65,13 @@ Tek bir teknolojiye bağlı kalmak yerine farklı alanlarda tecrübe edinmeyi se
 
 ---
 
-## 🌍 Diller
+##  Diller
 
 `İngilizce — B1`  ·  `Almanca — A1`
 
 ---
 
-## 📫 Bana Ulaşın
+##  İletişim Bilgileri
 
 <div align="center">
 
