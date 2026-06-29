@@ -53,7 +53,6 @@ Tek bir teknolojiye bağlı kalmak yerine farklı alanlarda tecrübe edinmeyi se
 
 ---
 
-</div>
 
 ---
 
