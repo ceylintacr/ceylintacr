@@ -51,10 +51,10 @@ Tek bir teknolojiye bağlı kalmak yerine farklı alanlarda tecrübe edinmeyi se
 |  **NoSQL → SQL Dönüştürme** | Python | NoSQL–SQL veri aktarım mimarisi |
 |  **Sudoku Oyunu** | C# | Sevimli tasarımıyla dallanma algoritmalı mobil sudoku oyunu |
 
----
-
 
 ---
+
+</div>
 
 ##  Diller
 
