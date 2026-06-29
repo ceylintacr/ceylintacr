@@ -53,14 +53,6 @@ Tek bir teknolojiye bağlı kalmak yerine farklı alanlarda tecrübe edinmeyi se
 
 ---
 
-##  GitHub İstatistiklerim
-
-<div align="center">
-
-![Ceylin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceylintacr&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceylintacr&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
