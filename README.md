@@ -43,7 +43,7 @@ Kocaeli Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. �
 
 | Proje | Teknoloji | Kısaca |
 |---|---|---|
-| [Sudoku — Dallanma Modu](https://github.com/ceylintacr/Sudoku-Oyunu) | Unity · C# | Denemeleri ana tahtayı bozmadan yapmayı sağlayan Sudoku |
+| [Sudoku](https://github.com/ceylintacr/Sudoku-Oyunu) | Unity · C# | Denemeleri ana tahtayı bozmadan yapmayı sağlayan Sudoku |
 | [Çürüyen Saltanat](https://github.com/ceylintacr/Tower-Defense) | Unity 2D · C# | Kule savunma oyunu |
 | [Şifre Gücü Analizcisi](https://github.com/ceylintacr/password-strength-analyzer) · [demo](https://ceylintacr.github.io/password-strength-analyzer/) | JavaScript | Şifredeki desenleri bulup gerçek gücünü ölçen tarayıcı aracı |
 | [NoSQL → SQL Motoru](https://github.com/ceylintacr/NoSQL-to-SQL) | Python · SQL | Yapısı bilinmeyen JSON'u normalize SQL şemasına dönüştürür |
